@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#enroll:hover {
+  background-color: #009dff; /* Change to a different color on hover */
+  color: white; /* Change text color to white on hover */
+  transform: scale(1.1); /* Slight scale effect to make it bigger on hover */
+}
